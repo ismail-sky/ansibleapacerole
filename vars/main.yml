@@ -1,0 +1,6 @@
+---
+# vars file for webserver
+apachepakg: httpd
+apacheconf: /etc/httpd/conf/
+apacheindex: /var/www/html/
+
